@@ -1,0 +1,27 @@
+ManifestFileVersion: 0
+CRC: 3590917508
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: charactor1depend
+      Dependencies: {}
+    Info_1:
+      Name: charactor1
+      Dependencies:
+        Dependency_0: charactor1depend
+    Info_2:
+      Name: model
+      Dependencies:
+        Dependency_0: modeldepend
+    Info_3:
+      Name: modeldepend
+      Dependencies: {}
+    Info_4:
+      Name: new
+      Dependencies: {}
+    Info_5:
+      Name: secondscene
+      Dependencies: {}
+    Info_6:
+      Name: mat
+      Dependencies: {}

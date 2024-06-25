@@ -1,0 +1,34 @@
+ManifestFileVersion: 0
+CRC: 219825508
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 35ae29316766b6e1bd9522bd0c6fa214
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: c81b6695a44cbf78261fda9524d92e36
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Model/bundle.prefab
+Dependencies:
+- /Users/ayang/Desktop/Unity/Object/HotfixProject/Assets/ABundle/modeldepend

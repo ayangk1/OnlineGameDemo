@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 2340315606
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 72ccd33b93c6f93c6357667e8fb3dbbe
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 7442ca6ae7239a2d950f1b79d3274420
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/fbx/hair_d.tiff
+- Assets/fbx/weapon_d.tiff
+- Assets/fbx/face_d.tiff
+- Assets/Model/weapon.prefab
+- Assets/fbx/upper_d.tiff
+- Assets/fbx/lower_d.tiff
+- Assets/fbx/pose.fbx
+- Assets/fbx/acc_d.tiff
+Dependencies: []

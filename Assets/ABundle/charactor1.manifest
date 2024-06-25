@@ -1,0 +1,28 @@
+ManifestFileVersion: 0
+CRC: 3206270559
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a720bd29745fcb077d09ba03d63196e4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 97a6ff93bae58bf9ab585425ebfbddd9
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Model/Charactor1.prefab
+Dependencies:
+- /Users/ayang/Desktop/Unity/Object/HotfixProject/Assets/ABundle/charactor1depend
